@@ -24,7 +24,7 @@
 - fluxus 
 - roblox-fluxus 
 - fluxus-external 
-- fluxus-executor 
+-  <a href="https://fluxusexc.com/">fluxus-executor</a>
 - fluxus-external-download 
 - fluxus-discord 
 - fluxus-v2-download 
